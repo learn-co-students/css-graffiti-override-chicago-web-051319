@@ -28,7 +28,7 @@ div#wall div.parent :last-child{
   display: none;
 }
 
-body div#wall div.parent div div > div#tag-7 .slick{
+body div#wall div.parent div > div#tag-7 .slick{
   display: none;
 }
 
